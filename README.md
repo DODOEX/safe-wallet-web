@@ -12,7 +12,7 @@ The default Safe web interface.
 Contributions, be it a bug report or a pull request, are very welcome. Please check our [contribution guidelines](CONTRIBUTING.md) beforehand.
 
 ## Getting started with local development
-
+ 
 ### Environment variables
 
 Create a `.env` file with environment variables. You can use the `.env.example` file as a reference.
